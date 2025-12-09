@@ -20,4 +20,4 @@ def test_bin_to_dec():
     assert bin_to_dec(10000000) == 128
 
 test_bin_to_dec()
-print(bin_to_dec(11100101))
+print(bin_to_dec(10011101))
